@@ -1,6 +1,9 @@
 {
     "compilerOptions":{
+        "target": "es2015",
+        "removeComments": true,
         "rootDir":"./src",
         "outDir":"./dist"
-    }
+    },
+    
 }
